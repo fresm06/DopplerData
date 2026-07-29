@@ -109,6 +109,16 @@
               }
             }
           ]
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 46,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/files/options.txt",
+            "path": "options.txt"
+          }
         }
       ]
     }
