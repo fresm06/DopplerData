@@ -171,16 +171,6 @@
           }
         },
         {
-          "id": "dev.tr7zw:entityculling:1.10.5@jar",
-          "name": "EntityCulling",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1604674,
-            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/entityculling-fabric-1.10.5-mc1.21.11.jar",
-            "MD5": "ed71bd47d8e4f45cc9892d21afc94f1f"
-          }
-        },
-        {
           "id": "generated.fabricmod:fabric-api:0.141.4+1.21.11@jar",
           "name": "Fabric API",
           "type": "FabricMod",
