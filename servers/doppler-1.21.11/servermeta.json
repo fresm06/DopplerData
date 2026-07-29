@@ -15,7 +15,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["options.txt"]
+      "patterns": ["options.txt", "config/**"]
     }
   ]
 }

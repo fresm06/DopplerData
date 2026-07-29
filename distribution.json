@@ -341,6 +341,16 @@
           }
         },
         {
+          "id": "disablefog.json",
+          "name": "disablefog.json",
+          "type": "File",
+          "artifact": {
+            "size": 415,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/files/config/disablefog.json",
+            "path": "config/disablefog.json"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
