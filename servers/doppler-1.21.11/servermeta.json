@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "name": "도플러 (Minecraft 1.21.11)",
     "description": "도플러 서버 - Minecraft 1.21.11 (Fabric 0.19.3)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "icon": "https://fresm06.github.io/DopplerData/icon.png",
     "address": "8.230.14.83:25565",
     "mainServer": true,
     "autoconnect": true
