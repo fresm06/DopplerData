@@ -351,6 +351,36 @@
           }
         },
         {
+          "id": "journeymap.fullmap.config",
+          "name": "journeymap.fullmap.config",
+          "type": "File",
+          "artifact": {
+            "size": 1321,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/files/journeymap/config/6.0/journeymap.fullmap.config",
+            "path": "journeymap/config/6.0/journeymap.fullmap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap.config",
+          "name": "journeymap.minimap.config",
+          "type": "File",
+          "artifact": {
+            "size": 2321,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/files/journeymap/config/6.0/journeymap.minimap.config",
+            "path": "journeymap/config/6.0/journeymap.minimap.config"
+          }
+        },
+        {
+          "id": "journeymap.minimap2.config",
+          "name": "journeymap.minimap2.config",
+          "type": "File",
+          "artifact": {
+            "size": 2337,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/files/journeymap/config/6.0/journeymap.minimap2.config",
+            "path": "journeymap/config/6.0/journeymap.minimap2.config"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
