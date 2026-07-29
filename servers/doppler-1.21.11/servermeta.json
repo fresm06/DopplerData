@@ -1,0 +1,16 @@
+{
+  "$schema": "file:///D:/newdata/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "도플러 (Minecraft 1.21.11)",
+    "description": "도플러 서버 - Minecraft 1.21.11 (Fabric 0.19.3)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "8.230.14.83:25565",
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.19.3"
+  },
+  "untrackedFiles": []
+}

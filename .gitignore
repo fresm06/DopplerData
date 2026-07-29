@@ -1,0 +1,7 @@
+# 서버 설정 파일 (런처 배포와 무관)
+/config.yml
+/spigot.yml
+
+# Nebula 작업용 (배포 불필요)
+/modpacks/
+/schemas/
