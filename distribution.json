@@ -111,6 +111,236 @@
           ]
         },
         {
+          "id": "eu.midnightdust:blur:6.3.1@jar",
+          "name": "Blur+",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 210003,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/blur-fabric-6.3.1+1.21.11.jar",
+            "MD5": "f82f4adb4e9df677b0025410feb4dd47"
+          }
+        },
+        {
+          "id": "moe.caramel.chat:caramelchat:1.2.2@jar",
+          "name": "CaramelChat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 160307,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/caramelChat-mc1.21.11-fabric-1.2.2.jar",
+            "MD5": "5e5791c9663092f63c1ffbe149f03a44"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:21.11.153@jar",
+          "name": "Cloth Config v20",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1148427,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/cloth-config-21.11.153-fabric.jar",
+            "MD5": "9de770889c2b19445f57f881e4f7d6f8"
+          }
+        },
+        {
+          "id": "com.sergo467:disablefog:2.2.0@jar",
+          "name": "Disable Fog",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 131766,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/disablefog-fabric-1.21.11-2.2.0.jar",
+            "MD5": "2f15d34c297c3aa9397387cfa7a8e0e6"
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:3.2.4@jar",
+          "name": "Entity Model Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 581295,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/entity_model_features-3.2.4-1.21.11-fabric.jar",
+            "MD5": "65210b0b150fe3cfb555a7731cd0867e"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:7.1@jar",
+          "name": "Entity Texture Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 744971,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/entity_texture_features_1.21.11-fabric-7.1.jar",
+            "MD5": "be1c60695dc31e6c1d6e13fe3fd2dbe5"
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.10.5@jar",
+          "name": "EntityCulling",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1604674,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/entityculling-fabric-1.10.5-mc1.21.11.jar",
+            "MD5": "ed71bd47d8e4f45cc9892d21afc94f1f"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.141.4+1.21.11@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2413332,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/fabric-api-0.141.4+1.21.11.jar",
+            "MD5": "5aeec6148c885849936a152bf4683c6d"
+          }
+        },
+        {
+          "id": "fuzs.forgeconfigapiport.fabric.impl:forgeconfigapiport:21.11.1@jar",
+          "name": "Forge Config API Port",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 598009,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar",
+            "MD5": "625e3619f1bd646b203b17717db2200a"
+          }
+        },
+        {
+          "id": "dev.obscuria:fragmentum:3.1.3@jar",
+          "name": "Fragmentum",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 876522,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/fragmentum-fabric-1.21.11-3.1.3.jar",
+            "MD5": "1ad030d74acbab25645916cf5d4291c1"
+          }
+        },
+        {
+          "id": "generated.fabricmod:immediatelyfast:1.14.3+1.21.11@jar",
+          "name": "ImmediatelyFast",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 302709,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/ImmediatelyFast-Fabric-1.14.3+1.21.11.jar",
+            "MD5": "ab71dca7ff5846458ff0dfadd4dcb873"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.10.7+mc1.21.11@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2807547,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/iris-fabric-1.10.7+mc1.21.11.jar",
+            "MD5": "5a7742b06041a0a98aa5df00ec8ce9a9"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.21.11-6.0.0@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4193594,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/journeymap-fabric-1.21.11-6.0.0.jar",
+            "MD5": "12674a4335e7374dee92139991aba90a"
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:17.0.0@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1115809,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/modmenu-17.0.0.jar",
+            "MD5": "c46182d61ea8f99e68f5d86af1b3fdd8"
+          }
+        },
+        {
+          "id": "dev.obscuria.tooltips:obscure_tooltips:5.0.0@jar",
+          "name": "Obscure Tooltips",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 508681,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/obscure_tooltips-fabric-1.21.11-5.0.0.jar",
+            "MD5": "558e8b517fe072fd3dfb545788fc0e6b"
+          }
+        },
+        {
+          "id": "generated.fabricmod:placeholder-api:2.8.2+1.21.10@jar",
+          "name": "Placeholder API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 268662,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/placeholder-api-2.8.2+1.21.10.jar",
+            "MD5": "392f27ec00dd71b8b4a9819f9449e856"
+          }
+        },
+        {
+          "id": "com.prodo.dialogue:prododialogue:1.0.0@jar",
+          "name": "Prodo Dialogue",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 20196368,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/prododialogue-1.0.0.jar",
+            "MD5": "db185aa87b812968df950b1500c6ca32"
+          }
+        },
+        {
+          "id": "btw.lowercase:skyboxify:3.1@jar",
+          "name": "Skyboxify",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 303410,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/skyboxify-3.1+1.21.11-fabric.jar",
+            "MD5": "29397ea1a1c630ece04c3274390f87db"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.8.7+mc1.21.11@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1870358,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/sodium-fabric-0.8.7+mc1.21.11.jar",
+            "MD5": "be9eef883db31e21e422aed7262df919"
+          }
+        },
+        {
+          "id": "io.github.a5b84.statuseffectbars:status-effect-bars:1.0.10@jar",
+          "name": "Status Effect Bars",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 47761,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/status-effect-bars-1.0.10.jar",
+            "MD5": "1986b57a54a543be513faee5bb2ec796"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.21.11-2.6.21@jar",
+          "name": "Simple Voice Chat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 5586521,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/voicechat-fabric-1.21.11-2.6.21.jar",
+            "MD5": "b382b5b98a8495acdb1cfd7e1348b364"
+          }
+        },
+        {
+          "id": "com.goby56:wakes:0.5.1+1.21.11@jar",
+          "name": "Wakes",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 282024,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/wakes-0.5.1+1.21.11.jar",
+            "MD5": "09572d7003b7073db5ffb8b2fd07c865"
+          }
+        },
+        {
+          "id": "dev.isxander.yacl3.platform:yet_another_config_lib_v3:3.8.2+1.21.11-fabric@jar",
+          "name": "YetAnotherConfigLib",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1126948,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
+            "MD5": "0de1337147953ff71854bfd4ce874629"
+          }
+        },
+        {
           "id": "options.txt",
           "name": "options.txt",
           "type": "File",
