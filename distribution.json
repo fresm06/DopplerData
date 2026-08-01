@@ -265,9 +265,9 @@
           "name": "Prodo Dialogue",
           "type": "FabricMod",
           "artifact": {
-            "size": 25257728,
+            "size": 25368198,
             "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/prododialogue-1.0.0.jar",
-            "MD5": "17a3d6712f339a716b7c4498a1be667c"
+            "MD5": "4e1cb09bd5bceac1a6bac15a3dc2b7a5"
           }
         },
         {
