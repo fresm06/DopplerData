@@ -5,7 +5,7 @@
     "name": "도플러 (Minecraft 1.21.11)",
     "description": "도플러 서버 - Minecraft 1.21.11 (Fabric 0.19.3)",
     "icon": "https://fresm06.github.io/DopplerData/icon.png",
-    "address": "8.230.14.83:25565",
+    "address": "34.47.85.162:25565",
     "mainServer": true,
     "autoconnect": true
   },
