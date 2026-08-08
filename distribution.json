@@ -326,7 +326,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 143725808,
-            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/watermedia_binaries-3.0.0.6.jar",
+            "url": "https://github.com/fresm06/DopplerData/releases/download/binaries-3.0.0.6/watermedia_binaries-3.0.0.6.jar",
             "MD5": "dc83b168dc2f38e10c577026133e8765"
           }
         },
