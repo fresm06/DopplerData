@@ -265,9 +265,9 @@
           "name": "Prodo Dialogue",
           "type": "FabricMod",
           "artifact": {
-            "size": 25546941,
+            "size": 25552163,
             "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/prododialogue-1.0.0.jar",
-            "MD5": "aa3aba224c672441ca3769c1056a2924"
+            "MD5": "a19fac173d7e1160bf845de33d3030f9"
           }
         },
         {
@@ -318,6 +318,26 @@
             "size": 282024,
             "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/wakes-0.5.1+1.21.11.jar",
             "MD5": "09572d7003b7073db5ffb8b2fd07c865"
+          }
+        },
+        {
+          "id": "org.watermedia.binaries.bootstrap:watermedia_binaries:3.0.0.6@jar",
+          "name": "WaterMedia: Binaries",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 143725808,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/watermedia_binaries-3.0.0.6.jar",
+            "MD5": "dc83b168dc2f38e10c577026133e8765"
+          }
+        },
+        {
+          "id": "org.watermedia.bootstrap:watermedia:3.0.0.23@jar",
+          "name": "WaterMedia",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3625444,
+            "url": "https://fresm06.github.io/DopplerData/servers/doppler-1.21.11/fabricmods/required/watermedia-3.0.0.23.jar",
+            "MD5": "871268b5fe32a865ff3d2ce129e73877"
           }
         },
         {

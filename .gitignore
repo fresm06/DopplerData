@@ -5,3 +5,5 @@
 # Nebula 작업용 (배포 불필요)
 /modpacks/
 /schemas/
+
+servers/doppler-1.21.11/fabricmods/required/watermedia_binaries-*.jar
